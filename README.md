@@ -16,6 +16,6 @@ For both tasks, I have a model sweep among support vector machine, logestic regr
   
 For the binary task, the best model is logestic regression. The summary table is shown below and saved in "summary_binary.csv".  
 ![table_binary](https://github.com/cyclopenta/bios626_midterm1/blob/main/table_binary.png)  
-   
+  
 For multi-class task, the best model is linear discriminant analysis. he summary table is shown below and saved in "summary_multi.csv".  
 ![table_multi]((https://github.com/cyclopenta/bios626_midterm1/blob/main/table_multi.png)  
