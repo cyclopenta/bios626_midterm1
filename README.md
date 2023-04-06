@@ -5,10 +5,11 @@ Because the original can't be directly used by pyhthon(some format problems), I 
 https://drive.google.com/file/d/1Ge741NuORYoBlF__6u5Z33tzOiLcI2bZ/view?usp=share_link
 
 # Dependecies
+```
   -python 3.7  
   -numpy  
   -pandas  
   -sklearn  
-  
+ ```
 # 
 
