@@ -11,5 +11,5 @@ python 3.7:
   -pandas  
   -sklearn  
  ```
-# 
-
+# Methods  
+For both tasks, I have a model sweep among support vector machine, logestic regression, random forest, naive
