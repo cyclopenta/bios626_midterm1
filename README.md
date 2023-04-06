@@ -6,7 +6,7 @@ https://drive.google.com/file/d/1Ge741NuORYoBlF__6u5Z33tzOiLcI2bZ/view?usp=share
 
 # Dependecies
 ```
-  -python 3.7  
+python 3.7:  
   -numpy  
   -pandas  
   -sklearn  
