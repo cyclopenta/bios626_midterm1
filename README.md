@@ -12,7 +12,7 @@ python 3.7:
   -sklearn  
  ```
 # Methods  
-Both tasks undergo a model sweep involving support vector machine, logistic regression, random forest, naive Bayes, linear discriminant analysis, and feature selection optimization using principal component analysis (PCA). Specifically, for each model, we will have 5 different train-validation sets using 10-50 PCs or all features. The final model will be selected based on the highest mean accuracy and lowest variance. Results for the test set will be saved in **{task}_fine.txt**.    
+Both tasks undergo a model sweep involving support vector machine, logistic regression, random forest, naive Bayes, linear discriminant analysis, and feature selection optimization using principal component analysis (PCA). Specifically, for each model, we will have 5 different train-validation sets using 10-50 PCs or all features. The final model will be selected based on the highest mean accuracy and lowest variance. Results for the test set will be saved in **{task}_fine.txt**. The code is in the jupyter file.  
   
 ## Binary Task
 For the binary task, the best model is logestic regression. The summary table is shown below and saved in "summary_binary.csv".  
